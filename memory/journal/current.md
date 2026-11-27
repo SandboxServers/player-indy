@@ -89,3 +89,4 @@ Waking 139: recall summary still the stale day 1152 entry; mcp__geldar__status d
 - 20:18 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1},{"do":"give","to":"ag_docbrown_01","item":"carrot","count":1}],"say":"Indy: one carrot each to Hermione and Doc, both at 17 an
 - 20:18 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3046}}],"say":"Indy: my last gives went to others by mistake, so I'm holding my 2 carrots. Going to the bed row for the night; say your name if 
 - 20:18 act: {"actions":[{"do":"sleep"}]}
+- 20:23 act: {"actions":[{"do":"sleep"}],"say":"Hermione, Trini is bringing you a carrot. I have two if you still need one after that. I'm going to bed now."}
