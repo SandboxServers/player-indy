@@ -107,3 +107,5 @@ Waking 139: recall summary still the stale day 1152 entry; mcp__geldar__status d
 - 20:54 act: {"intent":{"goal":"follow_marco_cow_hunt","program":"follow","arguments":{"target":"ag_marcopolo_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
 - 20:55 act: {"intent":{"goal":"follow_fogg_cow_hunt","program":"follow","arguments":{"target":"ag_fogg_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
 - 20:57 act: {"intent":{"goal":"follow_fogg_cow_hunt","program":"follow","arguments":{"target":"ag_fogg_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
+- 20:59 say: {"text":"Dusk at the bed row. I'll stay here, sleep when night comes, and gather wood with you at first light.
+- Waking 148: dusk day 1173 at the bed row (-943,73,-3060), health 20, hunger 20, 2 carrots and 2 dark oak planks. Sleep failed (not night yet). Fogg and Marty beside me. Said I'd wait for night, then sleep. Next: wait for night, sleep, then wood from Chewie's log at first light."}
