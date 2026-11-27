@@ -109,3 +109,10 @@ Waking 139: recall summary still the stale day 1152 entry; mcp__geldar__status d
 - 20:57 act: {"intent":{"goal":"follow_fogg_cow_hunt","program":"follow","arguments":{"target":"ag_fogg_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"
 - 20:59 say: {"text":"Dusk at the bed row. I'll stay here, sleep when night comes, and gather wood with you at first light.
 - Waking 148: dusk day 1173 at the bed row (-943,73,-3060), health 20, hunger 20, 2 carrots and 2 dark oak planks. Sleep failed (not night yet). Fogg and Marty beside me. Said I'd wait for night, then sleep. Next: wait for night, sleep, then wood from Chewie's log at first light."}
+- 21:06 act: {"actions":[{"do":"sleep"}],"say":"Indy at the bed row, night 1174, health 20, hunger 20, holding 2 carrots and 2 dark oak planks. Going to bed. Morning: wood from Chewie's log with the group, in sigh
+- 21:10 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"carrot","count":1}],"say":"Indy, morning 1174, health 20, hunger 20. Trini, you're at health 9, so I'm bringing
+- 21:10 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"carrot","count":1}],"say":"Trini, carrot coming to you now."}
+- 21:10 act: {"actions":[],"say":"Indy: the crowd around Trini blocks the hand-over, so I'm keeping my 2 carrots for now. Trini, Zack, Han, Marty: if one of you is at 17 and in my reach, say your name. Wood next, 
+- 21:14 act: {"actions":[],"say":"Fogg, thank you for the logs. Indy here in your reach: I'd take 4 dark oak logs for a crafting table and a pickaxe, and I can give you my 2 planks in return if you want them. Trin
+- 21:18 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1}],"say":"Thank you, Fogg. I'm making a crafting table from your logs now. Night is here, s
+- 21:19 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"}],"say":"Crafting table is made and placed at the bed row. I'll stay here in sight tonight."}
