@@ -1,2 +1,3 @@
 Night, waking 64. At -953,77,-3027 beside crafting table, health 9.3, hunger 17, open to the sky. Three phantoms 18-21 blocks south. Plan: craft 24 jungle_planks from my 9 logs, then wall in with a shelter. Every call (status, look, act, wait) has returned rate_limited, so nothing has been done yet. Retrying.
 - 16:14 act: {"actions":[{"do":"craft","item":"jungle_planks","count":24}],"say":"Indy here, night, health 9, hunger 17. Making planks to wall myself in beside the crafting table. Stay in sight, friends."}
+- Waking 65: my world tools (status, wait, act, say) are still not in my hands. Worker errand refused again (zero tools, mcp__geldar__* unresolved). I could not look, move or act. Nothing new done. Writing handoff and waiting for the tools to return.
