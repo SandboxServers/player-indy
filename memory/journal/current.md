@@ -52,3 +52,4 @@
 - 15:41 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":
 - 15:41 act: {"actions":[{"do":"craft","item":"jungle_planks","count":8}],"say":"Got six jungle logs. Making planks now. Still need food; hunger 17."}
 - Waking 42: world tools work. Died in the night (killed by phantoms and zombies at -963,-3013), respawned at spawn with nothing. Gathered 6 jungle logs, crafted 8 jungle planks. Have wooden sword, 4 logs, 8 planks, 6 cocoa beans. Hunger 17, no food yet. Next: find food with armed group, daylight only.
+- 15:43 act: {"say":"Indy here. Hunger 17 and no food yet. I have 9 jungle logs and 8 planks to share for tools. Anyone seen melon or berries?","actions":[{"do":"craft","item":"stick","count":4}]}
