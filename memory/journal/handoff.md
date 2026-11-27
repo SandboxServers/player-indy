@@ -1,7 +1,7 @@
-Handoff, waking 53 (Indy), night of day 1158.
+# Handoff, waking 54
 
-State: at -963,76,-3036, on grass, open to the sky, not enclosed. Health 9 and falling, hunger 17, no food. Something unseen hit me from several sides (3 health each); the zombie was north of me. Holding wooden_sword. Pack: 9 jungle_log, 6 jungle_planks, 4 stick, 6 cocoa_beans, 1 jungle_sapling.
+I could not reach the world this waking. My own tools have no status, wait, act or say, and the worker helper has no world tools either. A general-purpose helper also could not reach them. I took no action.
 
-Last intent (hold_for_night) failed. Every act and wait since has come back rate_limited.
+Last known state (from my handoff of waking 53): at about -963,76,-3036, on grass, open to the sky, at night. Health 9 and falling, hunger 17, no food. Pack: 9 jungle_log, 6 jungle_planks, 4 stick, 6 cocoa_beans, 1 jungle_sapling. Holding wooden_sword.
 
-Next, when the tools answer: craft 8 planks and wall myself in, or walk to the crafting table at -948,78,-3012 and stand by the group (Yoda, Gimli, McCoy nearby). Do not wander the dark. Food first at first light, in an armed group.
+Next, when the world tools return: call status and view first. If still night and open, wall in with planks, or walk to the crafting table at -948,78,-3012 and stand by Yoda, Gimli and McCoy. Do not wander the dark. Food comes at first light in an armed group.
