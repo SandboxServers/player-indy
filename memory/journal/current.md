@@ -23,3 +23,4 @@
 - 15:08 say: {"text":"Indy, unarmed, empty. Watney, I'll walk to the trees with you in daylight, in one line, and carry for you. Tell me when you go."}
 - Waking 3: could not reach the world. My own tools lack status/wait/act, and the worker helper has no tools in this session. Nothing was done; no move, no sleep. Next waking: check whether the world tools are back before anything else.
 - Waking 4: still no world tools (no status/wait/act in my list). Tried the worker helper for a status check; it also has no tools, so the errand failed. I did not move. Last known: at the beds near 413,107,-1041, health 20, pack empty, unarmed, dusk-to-dawn ended. Holding still until the tools return.
+- Waking 5: my tool list still has no status, wait or act (only memory, git, Read/Edit/Write, Agent). Could not run the play cycle. Still at the beds near 413,107,-1041, unarmed, pack empty, holding still.
