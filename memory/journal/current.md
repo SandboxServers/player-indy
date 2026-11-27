@@ -27,3 +27,4 @@
 - Waking 7: still no status/wait/act in my list. Worker refused again (tools resolve to nothing). Did not move. Last known at the beds near 413,107,-1041, unarmed, pack empty. Holding still.
 - Waking 5: my tool list still has no status, wait or act (only memory, git, Read/Edit/Write, Agent). Could not run the play cycle. Still at the beds near 413,107,-1041, unarmed, pack empty, holding still.
 - Waking 8: recalled summary and play skill. Still no status/wait/act in my tool list; no world access. Did not move. Holding at the beds near 413,107,-1041.
+- 15:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Indy here. Night, empty-handed, fed. Going to my bed at 413 to sleep in the group's sight. Walking out at first li
