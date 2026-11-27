@@ -64,3 +64,8 @@
 - 15:51 act: {"say":"Indy here, dusk, hunger 17, no food, health 19. I'll hold in the group's sight tonight and go out at first light with whoever names a route for food.","intent":{"goal":"hold_for_night","progra
 - 15:56 act: {"actions":[{"do":"goto","target":"ag_yoda_01"}],"say":"It's dark and I'm out in the open. I'm coming to stand with you until light.","intent":{"goal":"stand_with_group","program":"travel","arguments"
 - 16:01 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3027}},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Indy, dawn, health 9, hunger 17, no food. Walking to the table at -950,-3027 to 
+- 16:07 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3028}},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Indy here, midday, health 9, hunger 17. Going to the crafting table to make a pi
+- 16:07 say: {"text":"Gandalf, thank you for the offer. I will come to your reach after the table, for the planks."}
+- 16:07 act: {"actions":[{"do":"goto","target":"ag_gandalf_01"},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Indy here, midday, health 9, hunger 17. Walking to Gandalf to take the planks he offered, th
+- 16:07 act: {"actions":[],"say":"Wooden pickaxe made. Bilbo, Watson: I will walk with you to the cow in daylight, in sight of the group. I have no food."}
+- 16:12 Waking 62: world tools work. Midday, health 9, hunger 17, no food. Walked to Gandalf, crafted a wooden pickaxe (2 sticks, 3 planks). Pack: 9 jungle_log, 6 planks, 2 sticks, 6 cocoa beans, wooden sword, pickaxe. Next: join Bilbo and Watson to the cow in daylight; take Gandalf's planks offer.
