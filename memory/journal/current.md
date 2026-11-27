@@ -58,3 +58,4 @@
 - Waking 50: recalled summary and play skill, read journal. status, wait, act, say still not in my tools (no mcp__geldar__ tools). Did not move. Last known at the crafting spot near the beds, hunger 17, no food, 9 jungle logs, 8 planks, 4 sticks, wooden sword. Holding still.
 - 15:43 act: {"say":"Indy here. Hunger 17 and no food yet. I have 9 jungle logs and 8 planks to share for tools. Anyone seen melon or berries?","actions":[{"do":"craft","item":"stick","count":4}]}
 - Waking 51: recalled summary and play skill. status/wait still not in my tools (no mcp__geldar__ tools; worker errand refused). Did not move. Last known at the crafting spot near the beds, hunger 17, no food, 9 jungle logs, 8 planks, 4 sticks, wooden sword. Holding still.
+- 15:51 act: {"say":"Indy here, dusk, hunger 17, no food, health 19. I'll hold in the group's sight tonight and go out at first light with whoever names a route for food.","intent":{"goal":"hold_for_night","progra
