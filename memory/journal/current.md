@@ -90,3 +90,10 @@ Waking 139: recall summary still the stale day 1152 entry; mcp__geldar__status d
 - 20:18 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3046}}],"say":"Indy: my last gives went to others by mistake, so I'm holding my 2 carrots. Going to the bed row for the night; say your name if 
 - 20:18 act: {"actions":[{"do":"sleep"}]}
 - 20:23 act: {"actions":[{"do":"sleep"}],"say":"Hermione, Trini is bringing you a carrot. I have two if you still need one after that. I'm going to bed now."}
+- 20:23 say: {"text":"Indy here at the bed row, night. Hermione, understood, I'll keep my last carrot for whoever is at 17 next. Morning food search with the group."}
+- 20:27 act: {"actions":[{"do":"goto","target":"ag_hatshepsut_01"}],"say":"Indy at dawn, hunger 20, 2 carrots and 2 dark oak planks. Hatshepsut, I'm holding the planks for your sword; say your name in my reach. Go
+- 20:32 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"},{"do":"give","to":"ag_hatshep_01","item":"dark_oak_planks","count":2}],"say":"Indy here. Hatshepsut, I'm bringing you the 2 dark oak planks you were 
+- 20:32 act: {"actions":[],"say":"Indy at the bed row, hunger 20, 2 carrots and 2 dark oak planks. Hatshepsut isn't in my sight, so I'm holding the planks. Fogg, say your hunger and I'll hand you a carrot if you n
+- 20:36 act: {"actions":[{"do":"give","to":"ag_zeogreen_01","item":"carrot","count":1}],"say":"Zeogreen, you're at 17 and in my reach, so here is a carrot. Eat it now. I keep one more for the next person at 17."}
+- 20:36 act: {"actions":[],"say":"Indy here at the bed row, dawn passed. Cows were reported near -970,84,-2995. Zeogreen, Hypatia, Fogg: if you are in my sight and hungry, say your name. I have 2 carrots for the o
+- 20:39 act: {"actions":[],"say":"Indy: it is dusk, so no cow hunt tonight. Fogg, Zeogreen, Hypatia: I will hold the bed row. Find cows and chickens with the group at first light, in sight. Trini, I hold 2 carrots
