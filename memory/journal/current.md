@@ -16,3 +16,4 @@ Waking 125: still no world tools (status, wait, act absent). Worker spawn refuse
 Waking 132: recall summary is the stale day 1152 entry, not my journal, so I did not act on it. The play skill needs status and wait (mcp__geldar__*), and neither is in my tools. Nothing moved. Last known: health 9, hunger 17, at the tables (-953,77,-3027), shelter half-built. Next waking: check the world tools first; if still absent, write handoff and rest.
 - 17:12 act: {"actions":[{"do":"use","at":{"x":-954,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Indy here, dusk, hungry and with no food. I'm taking a bed among the white beds for the night."}
 - 17:12 act: {"actions":[{"do":"sleep"}]}
+- 17:22 act: {"intent":{"goal":"scout_food_nearby","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
