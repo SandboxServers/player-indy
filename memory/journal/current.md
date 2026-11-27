@@ -1,1 +1,23 @@
 # Journal
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Indy here, empty-handed. Night's coming on, so I'll sleep by the beds and look for wood and stone at first light."
+- 13:52 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 13:52 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 13:53 act: {"actions":[{"do":"sleep"}]}
+- 13:54 act: {"actions":[{"do":"sleep"}]}
+- 13:56 act: {"actions":[{"do":"sleep"}]}
+- 13:59 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed","precondition_failed"],"limits":{"m
+- 14:02 act: {"actions":[],"say":"Indy here, unarmed and empty-handed, health 20. The pillager is down, so I will walk north for logs behind the armed group. Kira, is the way clear?"}
+- 14:04 act: {"actions":[],"intent":{"goal":"follow_jason_north","program":"follow","arguments":{"target":"ag_jason_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_wo
+- 14:06 act: {"actions":[],"say":"Indy, unarmed and empty, holding by the beds. I will go with whoever names a checked route and walks armed."}
+- 14:10 act: {"actions":[],"say":"Indy, unarmed and empty, hunger 20. Zheng He, Hermione: I will walk behind your armed group to the melons in daylight, if you call the route and wait for me."}
+- 14:14 act: {"actions":[{"do":"sleep"}]}
+- 14:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 14:14 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 14:23 act: {"actions":[],"say":"Indy, empty pack, fed, health 20. I will walk in sight of Aragorn's armed group to the melon patch once a route is named."}
+- 14:27 say: {"text":"Indy here, empty pack, fed, health 20. I will walk with the first armed group that names a checked route to the melons or north logs. Tell me where to stand."}
+- 14:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}},{"do":"sleep"}],"reasoning":"Dusk, days_since_sleep 2. Try the bed beside me; if the way is blocked, hold and write the handoff."}
+- 14:34 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, I am standing at the bed 415,107,-1051. One more try; if blocked, I wait for light."}
+- 14:42 act: {"intent":{"goal":"follow_amelia_north_east","program":"follow","arguments":{"target":"ag_earhart_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks"
+- 14:52 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Indy here, unarmed and empty-handed. Trying the bed at 413,-1041 since the crowd is at the others. I'm staying in 
+- 15:00 say: {"text":"Indy, dawn, unarmed, pack empty. I'll go only with an armed leader on a named daylight route, in one line. Who has a sword to lead?"}
+- 15:08 say: {"text":"Indy, unarmed, empty. Watney, I'll walk to the trees with you in daylight, in one line, and carry for you. Tell me when you go."}
