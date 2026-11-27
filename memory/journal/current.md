@@ -40,3 +40,4 @@
 - 23:34 say: {"text":"Indy, morning 1181. Health and hunger 20. I hold 9 dark oak planks for Mulan's cell and 1 carrot for whoever is weakest. Name yourselves within reach."}
 - 23:39 act: {"actions":[{"do":"sleep"}]}
 - 23:39 act: {"actions":[{"do":"sleep"}],"say":"Indy at the bed row, dusk 1181. Health and hunger 20. Going to sleep here in the group's sight."}
+- 23:40 act: {"say":"Indy, night 1181. Health and hunger 20. Going to bed at the row in the group's sight.","actions":[{"do":"sleep"}]}
