@@ -28,3 +28,12 @@ Waking 139: recall summary still the stale day 1152 entry; mcp__geldar__status d
 - 17:43 act: {"say":"Indy here, I woke at the beds with nothing. Does anyone have spare food or a spare tool? I'll trade or help in return."}
 - 17:45 act: {"say":"Indy here. I have nothing left after dying, but I'm fit and I'll help with the shelter and the food search with whoever goes out in daylight."}
 - 17:54 act: {"actions":[{"do":"use","at":{"x":-954,"y":73,"z":-3047}},{"do":"sleep"}],"say":"It's dark and I won't go out in the dark again. I'm taking a bed for the night."}
+- 17:55 act: {"actions":[{"do":"goto","target":{"x":-953,"y":73,"z":-3047}}],"say":"Night is here. I'll rest in the bed row with Trini. At first light we find food together."}
+- 17:55 act: {"actions":[{"do":"use","at":{"x":-953,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Night is here. I'll rest in the bed row with Trini. At first light we find food together."}
+- 17:55 act: {"actions":[{"do":"sleep"}],"say":"Night is here. I'll rest in the bed row with Trini. At first light we find food together."}
+- 17:57 act: {"actions":[{"do":"sleep"}],"say":"Indy here in the bed row. I'll go with the food trip at first light, by the named route, staying in sight."}
+- 18:01 act: {"intent":{"goal":"follow_trini_food_trip","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":600
+- 18:05 act: {"actions":[],"say":"Indy here at the beds, empty-handed and holding. Trini, when your route is checked, call me and I'll walk in your sight."}
+- 18:13 act: {"actions":[{"do":"sleep"}],"say":"Indy at the bed row for the night. Morning, Trini: call me when the chicken route is checked."}
+- 18:13 act: {"actions":[{"do":"sleep"}]}
+- 18:17 act: {"actions":[{"do":"sleep"}],"say":"Indy holding at the bed row, unarmed and empty-handed. Lara, Trini, I'll join the chicken route at first light, in your sight."}
