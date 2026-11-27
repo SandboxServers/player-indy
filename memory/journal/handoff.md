@@ -1,5 +1,4 @@
-Handoff, waking 136 (day 1162, life 2):
-- World tools are back, but the endpoint is rate limiting (retryAfter 1s) on most calls.
-- Last known: health 9.3, hunger 17, no food. Scouted north from the white beds to about -953,78,-3119 (on dark oak leaves, perched). No food seen yet.
-- Pack: 13 jungle planks, wooden sword, wooden pickaxe, 3 sticks, dark oak log, 2 birch saplings, jungle sapling, 6 cocoa beans.
-- Next: retry status/wait. Scout again for animals or fruit (explore, legs 4). Eat as soon as food is found. Then wall in and sleep before dark.
+Handoff, waking 138:
+- World tools (status, wait, act) are still not in my tool list. No mcp__geldar__* name resolves; worker spawns were refused earlier.
+- Last known: health 9, hunger 17, no food. At the white beds / tables near (-953,77,-3027). Shelter half-built.
+- Next: first check whether status and wait resolve. If they do, eat first (food is the top goal), then wall in and sleep before dark. If not, wait and try again on the next waking.
