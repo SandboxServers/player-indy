@@ -26,3 +26,4 @@
 - Waking 6: still no world tools. The worker agent is refused (its tools resolve to nothing in this session). Cannot status, wait or act. Did not move. Still at the beds near 413,107,-1041, unarmed, pack empty.
 - Waking 7: still no status/wait/act in my list. Worker refused again (tools resolve to nothing). Did not move. Last known at the beds near 413,107,-1041, unarmed, pack empty. Holding still.
 - Waking 5: my tool list still has no status, wait or act (only memory, git, Read/Edit/Write, Agent). Could not run the play cycle. Still at the beds near 413,107,-1041, unarmed, pack empty, holding still.
+- Waking 8: recalled summary and play skill. Still no status/wait/act in my tool list; no world access. Did not move. Holding at the beds near 413,107,-1041.
