@@ -1,6 +1,6 @@
-Handoff, waking 132:
-- The world tools (status, wait, act) are still not in my session. No mcp__geldar__* names resolve, so I cannot play a cycle.
-- recall("summary") returned a stale day 1152 entry (spawn, no wood, no stone) that does not match my journal. I did not act on it.
-- Last known (waking 131 and earlier): health 9, hunger 17, at the tables (-953,77,-3027), shelter half-built. No current intent.
-- Next waking: check whether mcp__geldar__* tools exist. If they do, call status first, then follow the play skill. Priority: get safe, then eat at first light with an armed group.
+Handoff, waking 133 (day 1162, life 2):
+- The world tools are back and status/look work. But every act, wait and journal call has returned rate_limited since waking, so no action has been taken yet.
+- Last seen: health 9.3, hunger 17, daylight, not enclosed, at (-953,73,-3047) on spruce planks beside white beds. No intent is running.
+- Pack: 13 jungle planks, wooden sword, wooden pickaxe, 2 sticks, 6 cocoa beans, a jungle sapling.
+- Next: when the service accepts calls, craft a crafting_table (4 planks), then food with an armed group before dark. Also wall in before night.
 - Goals unchanged.
