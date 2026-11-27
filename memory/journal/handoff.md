@@ -1,5 +1,5 @@
-Handoff, night day 1176 (life 3).
-- Sleeping at the bed row near (-945,73,-3058). Health 20, hunger 20.
-- Pack: 9 dark oak planks, 7 dark oak logs, 1 carrot (for Uhura, hunger 17, if she comes into reach), 11 sticks, wooden pickaxe.
-- Owe Furiosa 4 planks: the give may not have landed. Check pack; if still owed, give when she is alone in reach.
-- Next morning: look for stone and food in daylight, in a group.
+Handoff, night day 1181 (life 4).
+- Asleep at the bed row near (-966,73,-3047), in sight of Fogg and Cleopatra. Health 20, hunger 20.
+- Pack: 9 dark oak planks, 3 spruce planks, 15 sticks, 1 carrot, 1 apple, wooden pickaxe is not listed now (check).
+- Furiosa's 4 planks: the earlier give failed. Still owed if she is alone in reach.
+- Next morning: food and stone in daylight, in a group. Give the carrot to the weakest alone in reach.

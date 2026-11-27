@@ -38,3 +38,5 @@
 - 23:26 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3048}},{"do":"sleep"}]}
 - 23:27 act: {"actions":[{"do":"goto","target":{"x":-965,"y":73,"z":-3050}},{"do":"sleep"}],"say":"Indy, night 1181. Moving west away from the enderman, staying in group sight. Carrot kept for Furiosa if she comes
 - 23:34 say: {"text":"Indy, morning 1181. Health and hunger 20. I hold 9 dark oak planks for Mulan's cell and 1 carrot for whoever is weakest. Name yourselves within reach."}
+- 23:39 act: {"actions":[{"do":"sleep"}]}
+- 23:39 act: {"actions":[{"do":"sleep"}],"say":"Indy at the bed row, dusk 1181. Health and hunger 20. Going to sleep here in the group's sight."}
