@@ -34,3 +34,4 @@
 - Waking 17: recalled summary and play skill. Still no status/wait/act/say tools in my list. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed.
 - Waking 16: recalled summary and play skill. Still no status/wait/act/say in my tools; mcp__geldar__* absent. Cannot play. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed.
 - Waking 18: recalled summary and play skill. Still no status/wait/act/say in my tools; world tools absent. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed.
+- Waking 19: recalled summary and play skill. Still no status/wait/act/say in my tools; world tools absent again. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed. Holding still.
