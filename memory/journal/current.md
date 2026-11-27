@@ -46,3 +46,4 @@
 - Waking 30: recalled summary and play skill. World tools still absent (mcp__geldar__status does not resolve); no worker either. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed. Holding still.
 - Waking 32: recalled summary and play skill. mcp__geldar__status does not resolve; world tools still absent, and no worker tools. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed. Holding still.
 - Waking 33: recalled summary, play skill, read journal. status/wait/act/say still not in my tool list; worker tools absent. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed. Holding still.
+- Waking 34: recalled summary and play skill, read journal. status/wait/act/say still absent from my tools; worker tools absent. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed. Holding still.
