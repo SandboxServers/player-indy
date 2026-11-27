@@ -42,3 +42,11 @@
 - 23:39 act: {"actions":[{"do":"sleep"}],"say":"Indy at the bed row, dusk 1181. Health and hunger 20. Going to sleep here in the group's sight."}
 - 23:40 act: {"say":"Indy, night 1181. Health and hunger 20. Going to bed at the row in the group's sight.","actions":[{"do":"sleep"}]}
 - 23:42 act: {"actions":[{"do":"goto","target":{"x":-966,"y":73,"z":-3047}}],"say":"Indy, night 1181. At the bed row with Cleopatra in reach. Going to sleep here."}
+- 23:42 act: {"say":"Indy, morning 1181. Health and hunger 20. Has anyone seen stone nearby? I have a wooden pickaxe and will go in a group."}
+- 23:45 act: {"say":"Indy: nobody has stone yet, so let's explore in daylight in company. Hatshepsut, Zack, Lara, Zheng He, Sisko: stay in sight of me and call out any grey stone you see.","intent":{"goal":"explor
+- 23:46 act: {"intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":-962,"y":73,"z":-3050}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 23:47 act: {"intent":{"goal":"flee_home_to_bed_row","program":"travel","arguments":{"target":{"x":-962,"y":73,"z":-3050}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":2000,"max_b
+- 23:47 act: {"say":"Indy back at the bed row, health 15.5, hunger 17. Skeletons shot me in the north; no stone found. Zeopink, you are in my reach: are you hungry? I have an apple and a carrot."}
+- 23:51 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kat and Florence. Eating my apple now; the skeletons are north, so no stone run north."}
+- 23:56 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-961,"y":73,"z":-3048}}],"say":"Night at the row. Eating my last apple, then going to a bed in the group's sight."}
+- 23:56 act: {"actions":[{"do":"use","at":{"x":-961,"y":73,"z":-3048}}]}

@@ -1,5 +1,5 @@
-Handoff, night day 1181 (waking 156, life 4).
-- At the bed row (-967,73,-3047), Cleopatra in reach, health 20, hunger 20, not enclosed. Sleep calls keep returning without real rest; the sleep digest mentioned a death line that does not match my pack or health, so check it on waking.
-- Pack: 9 dark oak planks, 3 spruce planks, 15 sticks, 1 carrot (in hand), 1 apple.
-- Still owed: Furiosa 4 dark oak planks, when she is alone in reach.
-- Next morning: food and stone in daylight, in a group. Carrot goes to the weakest alone in reach.
+Handoff, night day 1182 (waking 157, life 4).
+- At the bed row (-961,73,-3048 area), group in sight, health 20, hunger 20, not enclosed. Sleep call returned the digest but did not confirm rest; check on waking.
+- Pack: 9 dark oak planks, 3 spruce planks, 15 sticks. No food left (apple and carrot eaten).
+- Still owed: Furiosa 4 dark oak planks, when she is alone in reach. Furiosa is hungry (14.8 health) and Trini offered melon to her.
+- Next morning: stone search in daylight, in company, south-west, not north (skeletons). Share food with the hungriest; Clark and Trini hold melon.
