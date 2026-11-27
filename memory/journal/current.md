@@ -70,3 +70,22 @@ Waking 139: recall summary still the stale day 1152 entry; mcp__geldar__status d
 - 19:38 act: {"intent":{"goal":"cow_search_in_sight_day1169","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
 - 19:48 act: {"actions":[{"do":"sleep"}],"say":"Indy at the bed row for the night, in the group's sight. No food, hunger 20."}
 - 19:48 act: {"actions":[{"do":"sleep"}]}
+- 19:50 act: {"say":"Indy here, morning. Empty pack, no food. I'll stay in the group's sight and join the food search. Anyone who finds food, call it out.","intent":{"goal":"join_group_food_search","program":"foll
+- 19:56 act: {"say":"Indy, morning, hunger 20, pack empty. I'm staying with Trini for the food search. Call out any cow, pig or chicken.","intent":{"goal":"stay_with_group_food_search","program":"follow","argument
+- 19:58 act: {"say":"Indy here with 2 dark oak planks, thanks to Atticus. Hatshepsut, I can give you one for your sword if you're in my reach. No food here yet.","intent":{"goal":"stay_with_group_food_search","pro
+- 20:00 act: {"actions":[{"do":"use","at":{"x":-950,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Indy, dusk, going to bed at the row in the group's sight. No food today. First light, food search with Trini."}
+- 20:00 act: {"actions":[{"do":"sleep"}]}
+- 20:04 act: {"actions":[{"do":"sleep"}],"say":"Indy, night at the row. Atticus, Hatshepsut only got 1 plank from you, I still hold 2 dark oak planks. At first light I'll hand one to her if she comes into my reach
+- 20:08 act: {"say":"Indy, dawn 1171, hunger 20, no food. Chewie, stay in the row with us. Hatshepsut, if you're in my reach I have 2 dark oak planks for your sword. I'm joining Trini's food search in sight.","int
+- 20:10 act: {"say":"Indy, here at the row. No food, I still hold 2 dark oak planks for Hatshepsut's sword; Hatshepsut, say your name when you're in my reach. Chewie, the carrot should go to you. I'm staying with 
+- 20:13 act: {"say":"Indy: Frodo mentions food chests at -957,78,-3010. I'm going there to look, and I'll hold my 2 planks for Hatshepsut.","actions":[{"do":"goto","target":{"x":-957,"y":78,"z":-3010}}],"intent":{
+- 20:14 act: {"say":"Indy at the north chests. I'll look inside for food and leave what I find for anyone who needs it.","actions":[{"do":"open","at":{"x":-957,"y":78,"z":-3010}}]}
+- 20:14 act: {"say":"Indy: this chest gave me nothing I can see. The signs say free food at the Stores hall, x-920 z-3040. I'm going there now.","intent":{"goal":"reach_stores_hall_food","program":"travel","argume
+- 20:14 act: {"say":"Indy at the Stores hall. Signs say food is in the north chest row, so I'm opening those now.","actions":[{"do":"open","at":{"x":-920,"y":71,"z":-3040}},{"do":"open","at":{"x":-919,"y":71,"z":-
+- 20:14 act: {"say":"Indy: the chest is open. I'm taking bread from the food row, and Leif, I'll share with you.","actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3040},"item":"bread","count":4},{"do":"withd
+- 20:14 act: {"say":"Indy: the bread chest is empty. Trying the next food chests.","actions":[{"do":"withdraw","at":{"x":-919,"y":71,"z":-3040},"item":"carrot","count":4},{"do":"withdraw","at":{"x":-918,"y":71,"z"
+- 20:14 act: {"actions":[{"do":"goto","target":"ag_leif_01"}],"say":"I have 4 carrots from the Stores chests. Leif, Archimede, who is hungriest? Come close and I will share.","intent":{"goal":"share_carrots_with_h
+- 20:15 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"carrot","count":1}],"say":"Indy: Leif, one carrot is on its way. I still have 3 for whoever is at 17 in my reach. Say your name."}
+- 20:18 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1},{"do":"give","to":"ag_docbrown_01","item":"carrot","count":1}],"say":"Indy: one carrot each to Hermione and Doc, both at 17 an
+- 20:18 act: {"actions":[{"do":"goto","target":{"x":-949,"y":73,"z":-3046}}],"say":"Indy: my last gives went to others by mistake, so I'm holding my 2 carrots. Going to the bed row for the night; say your name if 
+- 20:18 act: {"actions":[{"do":"sleep"}]}
