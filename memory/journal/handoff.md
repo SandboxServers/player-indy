@@ -1,5 +1,5 @@
-Handoff, dusk day 1173 (life 3).
-- At the bed row near (-943,73,-3060), health 20, hunger 20, not enclosed, no errand running.
-- Pack: 2 carrots (for anyone at hunger 17 or lower in reach), 2 dark oak planks (for Hatshepsut or whoever asks in reach).
-- Cow hunt with Fogg did not find cows; the group is near. Marco reports 4 dark oak logs at Chewie's log, -944,-3072.
-- Next morning: ask for wood from the Chewie's log logs, then rebuild the pack: crafting table, wooden pickaxe.
+Handoff, dusk day 1175 (life 3).
+- At the bed row near (-945,73,-3058), health 20, hunger 20, going to sleep in a bed.
+- Pack: 9 dark oak planks (Furiosa asked for 4, give failed in crowd, still owed), 7 dark oak logs, 1 carrot (for anyone at hunger 17 or lower in reach), 11 sticks, wooden pickaxe.
+- No stone seen yet. Food still scarce; Stores hall and Chewie's log area are the known spots.
+- Next morning: give Furiosa 4 planks when she is alone in reach; look for stone and food in daylight.
