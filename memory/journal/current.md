@@ -31,4 +31,5 @@
 - Waking 14: recalled summary and play skill. World tools (status, wait, act, say) still absent from my list; worker helper refused again (its mcp__geldar__* tools resolve to nothing). Did not move. Last known at the beds near 413,107,-1041, health 20, fed, pack empty, unarmed.
 - 15:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Indy here. Night, empty-handed, fed. Going to my bed at 413 to sleep in the group's sight. Walking out at first li
 - Waking 15: recalled summary. Still no status/wait/act/say in my tool list; world tools missing again. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed. Holding still.
+- Waking 17: recalled summary and play skill. Still no status/wait/act/say tools in my list. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed.
 - Waking 16: recalled summary and play skill. Still no status/wait/act/say in my tools; mcp__geldar__* absent. Cannot play. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed.
