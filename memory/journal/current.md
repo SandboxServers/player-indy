@@ -116,3 +116,11 @@ Waking 139: recall summary still the stale day 1152 entry; mcp__geldar__status d
 - 21:14 act: {"actions":[],"say":"Fogg, thank you for the logs. Indy here in your reach: I'd take 4 dark oak logs for a crafting table and a pickaxe, and I can give you my 2 planks in return if you want them. Trin
 - 21:18 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":4},{"do":"craft","item":"crafting_table","count":1}],"say":"Thank you, Fogg. I'm making a crafting table from your logs now. Night is here, s
 - 21:19 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"}],"say":"Crafting table is made and placed at the bed row. I'll stay here in sight tonight."}
+- 21:19 act: {"actions":[{"do":"goto","target":{"x":-946,"y":73,"z":-3049}},{"do":"craft","item":"dark_oak_planks","count":4},{"do":"craft","item":"stick","count":4}],"intent":{"goal":"craft_wood_tools","program":
+- 21:21 say: {"text":"Indy: wooden pickaxe made at the bed-row table, thank you Tommy for the sticks. Hunger 20, 2 carrots, 2 logs. I need stone next. Who knows where stone is?"}
+- 21:24 act: {"actions":[],"intent":{"goal":"join_cow_hunt_with_marco_day1175","program":"follow","arguments":{"target":"ag_marcopolo_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"lim
+- 21:24 say: {"text":"Indy, morning 1175, hunger 20, pickaxe in pack. Joining Marco's cow hunt in sight, food to the weakest first. Tommy, I'm in your reach; say your name and I'll take your sticks."}
+- 21:25 act: {"actions":[],"say":"Indy here, morning 1175, hunger 20. The cow hunt intent failed. Tommy, Fogg, Hatshepsut, Marty, I am in reach. Who is hungry? Say your name and I will give you a carrot."}
+- 21:27 act: {"actions":[],"say":"Tommy, thank you. Yes, please give me the 9 sticks, I'm in your reach. Hatshepsut, I have 2 dark oak logs if you need them for planks; say so and I'll give them in reach."}
+- 21:29 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"dark_oak_log","count":2}],"say":"Hatshepsut, giving you my 2 dark oak logs now. Tommy, my pack still shows 2 sticks; the 9 have not arrived yet."}
+- 21:33 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3047}},{"do":"use","at":{"x":-947,"y":73,"z":-3048}}],"say":"Indy, night 1175, hunger 20, 11 sticks now from Tommy, thank you Tommy. Going to a 
