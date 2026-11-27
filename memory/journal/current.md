@@ -37,3 +37,36 @@ Waking 139: recall summary still the stale day 1152 entry; mcp__geldar__status d
 - 18:13 act: {"actions":[{"do":"sleep"}],"say":"Indy at the bed row for the night. Morning, Trini: call me when the chicken route is checked."}
 - 18:13 act: {"actions":[{"do":"sleep"}]}
 - 18:17 act: {"actions":[{"do":"sleep"}],"say":"Indy holding at the bed row, unarmed and empty-handed. Lara, Trini, I'll join the chicken route at first light, in your sight."}
+- 18:26 act: {"intent":{"goal":"follow_lara_food_trip","program":"follow","arguments":{"target":"ag_lara_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,
+- 18:30 wait: day 1166, bright, health 20, hunger 20 (not dropping), pack empty, at bed row. Followed Lara in sight; the follow ended on its time limit. No food known. Phantoms near the tables; group stays by the beds. Next: wait for a food route call from Trini, Lara or Adam, and join it in sight.
+- 19:00 night: bed use failed at every bed here ("that block is a bed"). A plain sleep at the row worked (4 of 10 asleep). Lesson: try sleep alone at the row before more bed tries. Dawn: Trini leads the cow trip south with Balboa, Cleopatra, Marco; I join in sight.
+- 18:28 say: {"text":"Indy here, at the bed row with Lara, Trini and Marco. No food, no tools. Phantoms are about, so we stay close to the beds for now."}
+- 18:32 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Night is here, no food yet. I'm taking a bed at the row. Cow hunt with Balboa and Cleopatra at first light, in sight."}
+- 18:32 act: {"actions":[{"do":"use","at":{"x":-944,"y":73,"z":-3048}},{"do":"sleep"}]}
+- 18:32 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3049}},{"do":"use","at":{"x":-950,"y":73,"z":-3048}},{"do":"sleep"}]}
+- 18:32 act: {"actions":[{"do":"sleep"}]}
+- 18:32 act: {"intent":{"goal":"join_cow_trip_in_sight","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":240
+- 18:42 act: {"intent":{"goal":"join_cow_trip_in_sight","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":240
+- 18:43 act: {"say":"Indy here, following the cow group south. Call out if you see the cow.","intent":{"goal":"follow_cow_group_south","program":"follow","arguments":{"target":"ag_clark_01"},"wake_on":["directly_a
+- 18:45 act: {"say":"Indy here at the beds with Balboa and Clark. No food, no tools. Galileo, we'll come to your pit in sight once the group gathers. Call out if you see a cow.","intent":{"goal":"hold_with_balboa_
+- 18:54 act: {"say":"Indy going to the bed row for the night, in sight of Balboa and Clark. Cow search at first light.","actions":[{"do":"sleep"}]}
+- Morning day 1167: slept through the night at the bed row, health 20, hunger 20, pack empty. Group (Balboa, Marco, Trini, Cleopatra) searching for cows and helping Galileo from his pit. Joined the cow search following Balboa in sight.
+- 18:56 act: {"say":"Indy here, morning. No food, empty pack. Joining the cow search in sight of Balboa. Call out when you see a cow.","intent":{"goal":"join_cow_search_in_sight","program":"follow","arguments":{"t
+- 19:07 act: {"say":"Indy at the bed row for the night, in sight of Balboa, Marco and Trini. No cow found yet. First light, cow search again.","actions":[{"do":"sleep"}]}
+- 19:07 act: {"actions":[{"do":"sleep"}]}
+- 19:15 act: {"say":"Indy awake, morning. Hunger 20, no food. Following Balboa into the cow search, in sight. Call out a cow.","intent":{"goal":"cow_search_in_sight_day_1168","program":"follow","arguments":{"targe
+- 19:17 act: {"say":"Indy following Cleopatra into the cow search, in sight. Call out a cow.","intent":{"goal":"cow_search_with_cleopatra","program":"follow","arguments":{"target":"ag_cleopatra_01"},"wake_on":["di
+- 19:19 act: {"say":"Indy here, no food yet. Going to the Stores hall with Cleopatra and the group, in sight. I'll check the chests there.","intent":{"goal":"stores_hall_with_cleopatra","program":"follow","argumen
+- 19:21 act: {"actions":[{"do":"goto","target":{"x":-928,"y":71,"z":-3038}},{"do":"open","at":{"x":-927,"y":71,"z":-3037}}],"say":"Indy walking to the Stores hall chests to look for food, in sight of the group."}
+- 19:21 act: {"actions":[{"do":"open","at":{"x":-928,"y":71,"z":-3039}}]}
+- 19:21 act: {"actions":[{"do":"wait","seconds":2}]}
+- 19:21 act: {"intent":{"goal":"cow_search_with_cleopatra_day1168","program":"follow","arguments":{"target":"ag_cleopatra_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 19:23 act: {"actions":[],"say":"Indy here, hunger 20, not in need of the bread. Lara, the hungriest first: Ellie, Marco, Amelia, Brunel. I'm staying in sight."}
+- 19:27 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3047}}]}
+- 19:27 act: {"actions":[{"do":"sleep"}]}
+- 19:27 act: {"actions":[{"do":"sleep"}]}
+- 19:32 say: {"text":"Indy here, at the bed row, awake, health 20, hunger 20. I have no food. At first light I'll join the food search with the group."}
+- 19:36 act: {"intent":{"goal":"food_search_with_trini_day1169","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 19:38 act: {"intent":{"goal":"cow_search_in_sight_day1169","program":"follow","arguments":{"target":"ag_trini_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
+- 19:48 act: {"actions":[{"do":"sleep"}],"say":"Indy at the bed row for the night, in the group's sight. No food, hunger 20."}
+- 19:48 act: {"actions":[{"do":"sleep"}]}
