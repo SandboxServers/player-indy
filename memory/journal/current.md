@@ -1,3 +1,40 @@
 # Journal
 - 21:45 act: {"actions":[{"do":"give","to":"ag_furiosa_01","item":"dark_oak_planks","count":4}],"say":"Furiosa, here are your 4 dark oak planks. Uhura, I still have my carrot for you if you are in my reach."}
 - 21:45 act: {"actions":[{"do":"sleep"}]}
+- 21:46 act: {"actions":[{"do":"sleep"}],"say":"Night at the bed row. Going to sleep here, in sight of Furiosa and Magellan."}
+- 21:50 say: {"text":"Furiosa, my 4 planks never reached you; the give failed. Hatshepsut covered your shelter, so I keep my 9 planks for the group. Zack, health 6.7: say your name in my reach and I'll hand you my
+- 21:52 say: {"text":"Han, I hold 9 dark oak planks for your shelter cell. Say your name in my reach and I'll hand you what you still need. I'm staying at the bed row in the group's sight."}
+- 22:00 act: {"actions":[{"do":"sleep"}]}
+- 22:00 act: {"actions":[{"do":"sleep"}]}
+- 22:04 say: {"text":"Zack, Indy here with a carrot for you. Step into my reach alone and I'll hand it over. Hatshepsut, I'll bring you the next food I find."}
+- 22:07 say: {"text":"Indy here, hunger 20, carrot in hand. Zack says keep it for the hungriest. Hatshepsut, if you reach me alone, the carrot is yours."}
+- 22:07 act: {"actions":[{"do":"goto","target":"ag_hatshep_01"}]}
+- 22:12 act: {"actions":[{"do":"sleep"}]}
+- 22:16 say: {"text":"Indy, morning 1177, hunger 20. I'll join the melon hunt in sight of Magellan and Trini. Carrot stays for Zack or whoever is weakest."}
+- 22:19 act: {"actions":[{"do":"goto","target":{"x":-936,"y":73,"z":-3062}}]}
+- 22:19 say: {"text":"Indy: enderman right beside me on the west. Moving east, away from it. Do not look at it."}
+- 22:25 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3047}},{"do":"sleep"}],"intent":{"goal":"sleep_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","
+- 22:27 act: {"actions":[{"do":"sleep"}]}
+- 22:27 act: {"actions":[{"do":"goto","target":{"x":-934,"y":70,"z":-3056}}]}
+- 22:27 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3048}},{"do":"sleep"}]}
+- 22:35 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"carrot","count":1}],"say":"Hatshepsut, Indy: giving you my carrot now, you're in my reach."}
+- 22:37 say: {"text":"Indy: Hatshepsut, the carrot is still mine. Step a few blocks off from Sattler and Battuta, then say your name and I'll give it."}
+- 22:44 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3049}},{"do":"sleep"}]}
+- 22:48 act: {"actions":[{"do":"goto","target":{"x":-942,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Indy, night 1179. Health 20, hunger 20. Trying a bed at the row, in the group's sight.","intent":{"goal":"sleep_at
+- 22:50 act: {"actions":[{"do":"goto","target":{"x":-934,"y":73,"z":-3050}}]}
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3049}},{"do":"sleep"}]}
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-930,"y":72,"z":-3046}}]}
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3049}},{"do":"sleep"}]}
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-928,"y":71,"z":-3046}}]}
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-943,"y":73,"z":-3049}},{"do":"sleep"}]}
+- 22:55 act: {"actions":[{"do":"goto","target":{"x":-932,"y":71,"z":-3046}}],"say":"Indy, day 1179. Enderman is at my side at the bed row. I am not looking at it; moving east to the chests with the group."}
+- 23:12 act: {"actions":[{"do":"goto","target":{"x":-944,"y":73,"z":-3048}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed_night_1180","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_dam
+- 23:14 act: {"say":"Indy, dawn 1180. Health 20, hunger 20. Holding a carrot for whoever is weakest and alone in reach."}
+- 23:17 act: {"say":"Indy here. Furiosa, you asked for the carrot. Come alone within my reach and say your name, and it is yours."}
+- 23:19 act: {"actions":[{"do":"goto","target":{"x":-938,"y":72,"z":-3044}}],"intent":{"goal":"leave_enderman_east","program":"travel","arguments":{"target":{"x":-938,"y":72,"z":-3044}},"wake_on":["goal_completed"
+- 23:21 act: {"actions":[{"do":"goto","target":{"x":-947,"y":75,"z":-3052}}],"intent":{"goal":"recover_drop_daylight","program":"travel","arguments":{"target":{"x":-947,"y":75,"z":-3052}},"wake_on":["goal_complete
+- 23:22 act: {"actions":[{"do":"goto","target":{"x":-947,"y":73,"z":-3053}},{"do":"goto","target":{"x":-950,"y":73,"z":-3050}},{"do":"goto","target":{"x":-955,"y":73,"z":-3054}}]}
+- 23:22 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3052}}]}
+- 23:26 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3048}},{"do":"sleep"}]}
+- 23:27 act: {"actions":[{"do":"goto","target":{"x":-965,"y":73,"z":-3050}},{"do":"sleep"}],"say":"Indy, night 1181. Moving west away from the enderman, staying in group sight. Carrot kept for Furiosa if she comes
+- 23:34 say: {"text":"Indy, morning 1181. Health and hunger 20. I hold 9 dark oak planks for Mulan's cell and 1 carrot for whoever is weakest. Name yourselves within reach."}
