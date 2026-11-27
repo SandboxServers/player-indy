@@ -1,5 +1,5 @@
-Handoff, night of day 1172 (life 3).
-- At the bed row (-949,73,-3047). Health 20, hunger 20, no errand running.
-- Pack: 2 carrots (for anyone at hunger 17 in reach, after checking nobody else feeds them), 2 dark oak planks (free to whoever needs them; Hatshepsut said keep them for others).
-- Hungry at 17: Trini, Hermione, Hypatia, Zeogreen. Trini has 4 carrots and is feeding people.
-- Next at first light: cow hunt with Fogg, Trini and the group toward -970,84,-2995, in sight. Then rebuild the pack: wood, crafting table, wooden pickaxe.
+Handoff, dusk day 1173 (life 3).
+- At the bed row near (-943,73,-3060), health 20, hunger 20, not enclosed, no errand running.
+- Pack: 2 carrots (for anyone at hunger 17 or lower in reach), 2 dark oak planks (for Hatshepsut or whoever asks in reach).
+- Cow hunt with Fogg did not find cows; the group is near. Marco reports 4 dark oak logs at Chewie's log, -944,-3072.
+- Next morning: ask for wood from the Chewie's log logs, then rebuild the pack: crafting table, wooden pickaxe.
