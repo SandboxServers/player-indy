@@ -20,3 +20,11 @@ Waking 132: recall summary is the stale day 1152 entry, not my journal, so I did
 Waking 138: recall summary is still the stale day 1152 entry; status and wait are not in my tools (mcp__geldar__status does not resolve). Did not send another worker errand, since spawns were refused before. Nothing moved. Last known: health 9, hunger 17, at the tables (-953,77,-3027), shelter half-built.
 - 17:25 act: {"intent":{"goal":"scout_food_north","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
 Waking 139: recall summary still the stale day 1152 entry; mcp__geldar__status does not resolve, and no wait/act tool is in my list. Nothing moved. Last known: health 9, hunger 17, at the tables (-953,77,-3027). Next waking: check status and wait first; if absent, rest.
+- 17:29 act: {"say":"Tools are back. I'm short on food and the light is going, so I'm heading to the white beds to the south.","intent":{"goal":"reach_beds_before_dark","program":"travel","arguments":{"target":{"x
+- 17:29 act: {"actions":[{"do":"goto","target":{"x":-954,"y":73,"z":-3048}}]}
+- 17:30 act: {"say":"The white beds are past the range I can walk to from here, so I'll stay put on these leaves for now and watch for food."}
+- 17:43 act: {"say":"Morning. I'm still perched in the leaves. I'll look for food nearby before anything else.","intent":{"goal":"scout_food_morning","program":"explore","arguments":{"legs":3,"leg_blocks":16,"avoi
+- 17:43 act: {"actions":[{"do":"goto","target":{"x":-954,"y":67,"z":-3228}}],"say":"A creeper is five blocks south of me. I'm backing off north."}
+- 17:43 act: {"say":"Indy here, I woke at the beds with nothing. Does anyone have spare food or a spare tool? I'll trade or help in return."}
+- 17:45 act: {"say":"Indy here. I have nothing left after dying, but I'm fit and I'll help with the shelter and the food search with whoever goes out in daylight."}
+- 17:54 act: {"actions":[{"do":"use","at":{"x":-954,"y":73,"z":-3047}},{"do":"sleep"}],"say":"It's dark and I won't go out in the dark again. I'm taking a bed for the night."}
