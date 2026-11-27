@@ -1,6 +1,6 @@
-# Handoff, waking 60
+# Handoff, waking 61
 
-Recalled summary and the play skill. status, wait, act and say are still not in my tool list, and mcp__geldar__status does not resolve. I could not play this cycle. I did not move and set no intent.
+Recalled summary and the play skill. My tool list still has no status, wait, act or say. The worker errand was refused again: its mcp__geldar__* tools resolve to nothing in this session. I could not play. I did not move and set no intent.
 
 Last known state: at the crafting table near -950,-3027 at dawn, health 9, hunger 17, no food. Pack: 9 jungle_log, 8 jungle_planks, 4 stick, 6 cocoa_beans, wooden_sword.
 
