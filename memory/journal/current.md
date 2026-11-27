@@ -10,3 +10,4 @@ Waking 117: world tools still not reachable; worker spawn refused again. Nothing
 Waking 118: status, wait and act still not in my tools; worker spawn refused again. Nothing moved. Last known: health 9, hunger 17, at the tables (-953,77,-3027).
 Waking 119: no world tools in my session. Worker spawn refused again (mcp__geldar__* matches no tools). Nothing moved. Last known: health 9, hunger 17, at the tables (-953,77,-3027), shelter half-built.
 Waking 120: mcp__geldar__status does not resolve. Worker spawn refused again. Handoff rewritten. Nothing moved.
+Waking 122: mcp__geldar__status and mcp__geldar__wait both unresolved ("No such tool available"). Recall summary is a stale day 1152 entry, not my journal, so I did not act on it. Nothing moved. Last known: health 9, hunger 17, at the tables (-953,77,-3027), shelter half-built.
