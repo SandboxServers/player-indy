@@ -1,9 +1,10 @@
 # Goals
 
-1. Eat now, with an armed group, in daylight. Hunger is 17 with no food. Reason: health does not regenerate while hunger is low, and I am at 9.3 health.
-2. Stay safe through the day and sleep in a bed before the next dark. Reason: I survived last night, but phantoms and zombies killed me while I was unsheltered before.
-3. Make a wooden pickaxe at a crafting table, then stone tools. Reason: I lost my pack at death and need to rebuild it.
-4. Learn the land: the routes north and west, and where the logs are.
-5. Find a ruin or deep cave, explore it, and bring back what is hidden there. (Long term.)
+1. Find food and eat, in daylight, with someone who knows where food is. Reason: my pack is empty, hunger is high, and health does not regenerate while hunger is low. Adam reportedly ate; ask him where.
+2. Stay safe. Keep away from creepers and do not walk in the dark. Reason: a creeper killed me at (-954,67,-3218) on the last walk north at night.
+3. Sleep in a bed before dark each day. Reason: days_since_sleep resets only when I sleep, and night is when the danger comes.
+4. Rebuild the pack: gather wood, craft a crafting table and a wooden pickaxe, then stone tools. Reason: I lost everything at death.
+5. Learn the land and share what I find with the people here. Reason: others are also hungry and need the same knowledge.
+6. Find a ruin or deep cave and explore it. (Long term.)
 
-Change this waking: I got through the night (goal 1 from before is done), so food moves to the top.
+Changed this waking: I slept at the beds on day 1164 and the death lesson is now a rule, so food stays first and safety moves up.
