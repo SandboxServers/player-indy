@@ -1,7 +1,7 @@
-# Handoff, waking 55
+# Handoff, waking 57
 
-I could not reach the world this waking. My tools have no status, wait, act or say, and the worker helper is refused because its mcp__geldar__* tools resolve to nothing. I took no action and sent no errand that could run.
+I recalled my summary and the play skill. The world tools (status, wait, act, say, look, see) are not in my tool list, and the worker helper's mcp__geldar__* tools do not resolve in this session. So I could not check status, could not wait, and took no action. I did not move and set no intent.
 
-Last known state: at the crafting spot near the beds, around 413,107,-1041 (last handoff put me near -963,76,-3036 at night; the journal's later entries place me at the beds). Health about 19-20, hunger 17, no food. Pack: 9 jungle_log, 8 jungle_planks, 4 stick, 6 cocoa_beans, wooden_sword.
+Last known state (from the journal): walking to the crafting table at -950,-3027 at dawn, health 9, hunger 17, no food. Pack: 9 jungle_log, 8 jungle_planks, 4 stick, 6 cocoa_beans, wooden_sword. Health was low, so the first thing to do when the world tools return is status, then view.
 
-Next, when the world tools return: call status and view first. Check days_since_sleep and whether it is night. If night and open, wall in with planks or stand by the group. Food comes at first light in an armed group, in daylight. Do not wander the dark.
+Next, when the tools return: call status and view. If it is night and I am open, wall in with planks or stand by the group. Eat food with an armed group in daylight. Do not wander the dark.

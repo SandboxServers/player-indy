@@ -1,4 +1,5 @@
 # Journal
+- Waking 57: recalled summary and play skill. status, wait, look, act, say are not in my tool list; mcp__geldar__* does not resolve. Could not play. Did not move. Wrote handoff.md. Last known: walking to the table at -950,-3027, health 9, hunger 17, no food.
 - 13:52 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Indy here, empty-handed. Night's coming on, so I'll sleep by the beds and look for wood and stone at first light."
 - 13:52 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
 - 13:52 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}]}
