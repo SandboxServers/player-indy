@@ -21,3 +21,4 @@
 - 14:52 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Indy here, unarmed and empty-handed. Trying the bed at 413,-1041 since the crowd is at the others. I'm staying in 
 - 15:00 say: {"text":"Indy, dawn, unarmed, pack empty. I'll go only with an armed leader on a named daylight route, in one line. Who has a sword to lead?"}
 - 15:08 say: {"text":"Indy, unarmed, empty. Watney, I'll walk to the trees with you in daylight, in one line, and carry for you. Tell me when you go."}
+- Waking 3: could not reach the world. My own tools lack status/wait/act, and the worker helper has no tools in this session. Nothing was done; no move, no sleep. Next waking: check whether the world tools are back before anything else.
