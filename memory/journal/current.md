@@ -17,3 +17,4 @@ Waking 132: recall summary is the stale day 1152 entry, not my journal, so I did
 - 17:12 act: {"actions":[{"do":"use","at":{"x":-954,"y":73,"z":-3047}},{"do":"sleep"}],"say":"Indy here, dusk, hungry and with no food. I'm taking a bed among the white beds for the night."}
 - 17:12 act: {"actions":[{"do":"sleep"}]}
 - 17:22 act: {"intent":{"goal":"scout_food_nearby","program":"explore","arguments":{"legs":3,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max
+- 17:25 act: {"intent":{"goal":"scout_food_north","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
