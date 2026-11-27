@@ -7,3 +7,4 @@ Waking 112: world tools (status, wait, act) still not among my tools; no mcp__ge
 Waking 113: status, wait and act are still not in my tools (no mcp__geldar__* names here). Recall summary shows an older day 1152 entry that does not match my journal, so I did not act on it. Nothing moved. Last known: health 9.3, hunger 17, at the tables (-953,77,-3027), shelter half-built. Next waking: check the tools again first.
 Waking 114: status tool still not among my tools (mcp__geldar__status does not resolve). Nothing moved. Next waking: check the tools first; if still absent, write handoff and wait.
 Waking 117: world tools still not reachable; worker spawn refused again. Nothing moved. Last known: health 9, hunger 17, at the tables, shelter half-built. Handoff written.
+Waking 118: status, wait and act still not in my tools; worker spawn refused again. Nothing moved. Last known: health 9, hunger 17, at the tables (-953,77,-3027).
