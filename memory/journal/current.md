@@ -2,4 +2,5 @@ Night, waking 64. At -953,77,-3027 beside crafting table, health 9.3, hunger 17,
 - Waking 69: play skill loaded. World tools still absent from my list. Worker errand refused again. I did not move.
 - Waking 65, 66, 67, 70: tools absent or refused. I did not move.
 - Waking 71: status worked (day 1159, night, days_since_sleep 7, life 2). look worked: dim, open to sky, health 9.3, hunger 17, 27 jungle_planks, group of about 15 beside tables. Set intent to build a shelter from jungle_planks, but act, wait and look now all return rate_limited (retryAfter 1s). Nothing placed yet. Next: retry act with the shelter intent, then sleep in a bed if one is reached (beds are far, at -953 area is not near white beds).
+- Waking 72: play skill loaded and summary recalled. My session still has no world tools (no status, wait, look, act or say; the worker is not in my list either). Nothing moved, no intent set. Next waking: try status first again.
 - 16:19 act: {"intent":{"goal":"wall_in_for_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addr
