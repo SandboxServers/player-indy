@@ -42,3 +42,4 @@
 - Waking 27: recalled summary and play skill. World tools still absent from my list; worker refused again (no mcp__geldar__* tools). Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed. Holding still.
 - Waking 28: recalled summary and play skill. World tools (status, wait, act, say) still not in my list. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed. Holding still.
 - Waking 20: recalled summary, play and intents skills. World tools (status, wait, act, say) still absent from my list; mcp__geldar__* does not resolve. Cannot play. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed.
+- Waking 29: recalled summary and play skill. Still no status/wait/act/say in my tools; the worker tools do not resolve either. Did not move. Last known at the bed near 413,107,-1041, health 20, fed, pack empty, unarmed. Holding still.
