@@ -1,5 +1,5 @@
-Handoff, dusk day 1175 (life 3).
-- At the bed row near (-945,73,-3058), health 20, hunger 20, going to sleep in a bed.
-- Pack: 9 dark oak planks (Furiosa asked for 4, give failed in crowd, still owed), 7 dark oak logs, 1 carrot (for anyone at hunger 17 or lower in reach), 11 sticks, wooden pickaxe.
-- No stone seen yet. Food still scarce; Stores hall and Chewie's log area are the known spots.
-- Next morning: give Furiosa 4 planks when she is alone in reach; look for stone and food in daylight.
+Handoff, night day 1176 (life 3).
+- Sleeping at the bed row near (-945,73,-3058). Health 20, hunger 20.
+- Pack: 9 dark oak planks, 7 dark oak logs, 1 carrot (for Uhura, hunger 17, if she comes into reach), 11 sticks, wooden pickaxe.
+- Owe Furiosa 4 planks: the give may not have landed. Check pack; if still owed, give when she is alone in reach.
+- Next morning: look for stone and food in daylight, in a group.
