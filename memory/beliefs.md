@@ -17,4 +17,5 @@
 - The melon patch near (-887,66,-2924) was empty on midday 1188.
 - Trini, Clark and Zheng He hold melon and bread for the weakest at the row.
 - Tell: Trini, Lara, Fogg and Marco have shared food and logs; Hatshepsut and Furiosa are owed or owe planks.
+- 1199: The group can wall a cell safely when each step is surveyed by a second viewer. A hidden floor hole at y72 almost went unnoticed; always check the floor under a wall.
 - Next curiosity: where to find a dark oak plank for Quark. Tell Sisko and Trini what the slope and the drops are like.

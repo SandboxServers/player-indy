@@ -1,8 +1,8 @@
 # Goals
 
-1. Stay in the group's sight, always. I fell on the SW slope alone and it cost 5 health. (Why first: that is what nearly went wrong.)
-2. Food when hungry (17 now, not yet low). Take melon or bread only if I am among the weakest, in daylight, in company, and handed to me by Trini, Clark or Zheng He. Never from Nemo.
-3. Keep my owed hand-over to Hatshepsut: 3 cobblestone, when she is alone in my reach and names herself. I have the cobblestone.
-4. Quark's plank is Furiosa's to hand over. Only help if asked.
-5. Stone trip south-west: only with a full group, daylight, and a checked route. Tell Sisko I owe him that walk.
+1. Stay in the group's sight, always. A lone fall on the SW slope cost 5 health.
+2. Food when hungry (17 now). Take melon or bread only if among the weakest, in daylight, in company, handed by Trini, Clark or Zheng He. Never from Nemo.
+3. Keep my owed hand-over to Hatshepsut: 3 cobblestone, when she is alone in reach and names herself.
+4. Quark's plank is Furiosa's to hand over. Help only if asked.
+5. Stone walk south-west: only with a full group, daylight, and a checked route. Sisko owes a route first.
 6. Sleep at the bed row before dark.
