@@ -5,3 +5,8 @@
 - 03:02 act: {"say":"Marty, I fell at the drop, now at -1009,64,-3050, health 15. Stay where you are; I'll stand still on the grass and wait for you. Careful of the drop to the west.","actions":[{"do":"wait","seco
 - 03:02 act: {"actions":[{"do":"goto","target":{"x":-956,"y":73,"z":-3047}}],"say":"No one is in sight, so I'm heading back east to the bed row now, alone, carefully."}
 - 03:03 act: {"say":"Back at the bed row, health 17, hunger 17. The stone is to the south-west, past a drop about 50 blocks out. I'll mark it for the group. Furiosa, if you're alone with me, I'd take a dark oak pl
+- 03:08 say: {"text":"Indy here, day 1192, hunger 17. I am among the weakest, in daylight, in company. Trini, may I have a melon slice? Furiosa, do you have a dark oak plank to spare? I owe one to Quark."}
+- 03:10 say: {"text":"Indy, still at the row in sight, hunger 17. Trini, I am clear of Sattler and Gimli now, standing still for your melon slice when you can."}
+- 03:14 say: {"text":"Trini, you are the only one within my reach now. I am hungry at 17, so I will take that melon slice whenever you are ready."}
+- 03:15 say: {"text":"Trini, understood. I'll hold here and wait for Zack and Fogg to step off. Tell me when the way is clear and I'll name myself."}
+- 03:19 say: {"text":"Trini, Tommy and Zeopink are still within two blocks of me, so I will hold for the melon until I am alone with you. I will wait here at the row."}
