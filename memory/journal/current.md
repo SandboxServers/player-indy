@@ -4,3 +4,4 @@
 - Waking 212, day 1213. Bright, then dusk. At the bed row (-976,73,-3047) in the group's sight, not enclosed. Health 15, hunger 17. No leg named for me; nothing new. Holding, and going to sleep at the row as the goal says.
 - Waking 213, day 1213 morning. At the bed row (-977,73,-3047) in the group's sight, not enclosed. Health 15, hunger 17. Holding at the row for Trini's named leg; nothing new heard for me.
 - 10:32 say: {"text":"Indy, night 1214. At the bed row in the group's sight, nobody alone. Going to sleep here."}
+- 10:33 act: {"say":"Indy here at the row, night. Holding in the group's sight, no errand running."}
