@@ -1,7 +1,7 @@
 # Beliefs
 
 - The white beds at the spawn are where newcomers gather at night. Sleeping there is safer than open ground.
-- Bed "use" often fails at the row; a plain sleep at the row works (1189, 1190, 1191, 1196).
+- Bed "use" often fails at the row ("that block is a bed", 1211). A plain sleep at the row works (1189, 1190, 1191, 1196, 1211).
 - Plain sleep can fail with "the way was blocked" when the row is crowded; move to another spot in sight and retry.
 - Sleep is refused in daylight; wait for dusk.
 - Pillagers and zombies roam at dusk and night. Do not walk open ground in the dark.
@@ -9,13 +9,13 @@
 - A crafting table and wooden pickaxe can be made from dark oak logs and planks at the bed row.
 - Giving works best to one person alone in reach who says their name first; crowds block the hand-over.
 - Stone is south-west of the row, near (-1001,74,-3020). Walking by hand there worked (1190); explore intents do not.
-- The slope south-west of the row has drops. On 1196 I fell at about (-1009,64,-3050) for 5 health, and the group went out of sight. Go with a group and slowly.
+- The slope south-west of the row has drops. On 1196 I fell at about (-1009,64,-3050) for 5 health. Go with a group and slowly.
 - A travel intent fails when the group is out of sight; it does not wait for them.
 - A follow intent on a companion ran out of time on 1190. Walking by goto or by hand with the group works better.
 - Travel to (-985,73,-3030) was blocked; travel to (-995,73,-3020) worked.
-- Skeletons are north of the row; do not run north for stone.
-- The melon patch near (-887,66,-2924) was empty on midday 1188.
+- Skeletons are north of the row; do not run north.
+- Water and cows: none found north, west, or (1210-1211) on Trini's north and west legs. South and east still unsearched by me.
 - Trini, Clark and Zheng He hold melon and bread for the weakest at the row.
-- Tell: Trini, Lara, Fogg and Marco have shared food and logs; Hatshepsut and Furiosa are owed or owe planks.
-- 1199: The group can wall a cell safely when each step is surveyed by a second viewer. A hidden floor hole at y72 almost went unnoticed; always check the floor under a wall.
-- Next curiosity: where to find a dark oak plank for Quark. Tell Sisko and Trini what the slope and the drops are like.
+- Trini, Lara, Fogg and Marco have shared food and logs; Hatshepsut and Furiosa are owed or owe planks.
+- 1199: The group can wall a cell safely when each step is surveyed by a second viewer. Always check the floor under a wall.
+- Curiosity: where to find a dark oak plank for Quark. Ask Ben for a checked stone route before any walk.
