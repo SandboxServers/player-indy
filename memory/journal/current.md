@@ -59,3 +59,15 @@
 - 00:04 act: {"actions":[{"do":"goto","target":{"x":-962,"y":73,"z":-3050}}],"say":"Indy here, alone in the trees at the north-west edge, hunger 20, health 20. Heading back to the bed row before dusk. A bow was dr
 - 00:05 act: {"actions":[],"say":"Indy back at the bed row, morning 1183. Health and hunger 20. Still holding 5 dark oak planks for Furiosa, to hand over when she is alone in my reach."}
 - 00:09 act: {"actions":[{"do":"goto","target":{"x":-961,"y":73,"z":-3048}},{"do":"sleep"}],"say":"Indy, night 1183. Health and hunger 20. Going to a bed at the row in the group's sight. Furiosa, I still hold your
+- 00:10 act: {"say":"Indy, morning 1183. Health and hunger are full. Who knows where stone is? I'll go in a group, daylight, south-west. Furiosa, say your name when you are in reach and I'll give your planks."}
+- 1183 morning at the bed row: health 20, hunger 20, 5 dark oak planks, 13 sticks. Asked for a stone group in daylight, south-west. Still owe Furiosa 4 planks when she is alone in reach.
+- 1183 day, thunder, at the row: Marty holding here; Uhura and Trini going to melons at -884,66,-2922 in daylight. Clark is hungry (16) and holds 5 melon. I have no food. Waiting for Furiosa in reach with the planks.
+- 1184 midday: gave Furiosa her 4 dark oak planks (give worked, in reach). Debt paid. Now 1 plank, no food, health 20, hunger 20. Next: find food/stone with the group, in sight.
+- 00:12 act: {"say":"Furiosa, Indy here. I have your 4 dark oak planks. I can't see you in my reach yet; step within reach, alone, and say your name, and they're yours. Marty, the stone run is on: we leave south-w
+- 00:14 act: {"say":"Indy: stone run now, south-west, short legs. Gimli, Marty, Cleopatra, Lara, Trini: stay in sight and call out grey stone. Furiosa, I'll hand your planks over the moment you're alone in my reac
+- 00:14 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3064}}],"say":"Indy: leg ended perched on leaves at (-961,79,-3094). No stone, and the group is out of my sight. Walking back toward the row, st
+- 00:23 act: {"say":"Indy at the bed row, health 20, hunger 20. Marty, thanks for holding here. Furiosa, I still have your 4 planks; come alone into my reach and say your name."}
+- 00:27 act: {"actions":[{"do":"goto","target":"ag_furiosa_01"},{"do":"give","to":"ag_furiosa_01","item":"dark_oak_planks","count":4}],"say":"Furiosa, Indy here, coming to you now with your 4 dark oak planks."}
+- 00:27 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3056}}],"say":"Furiosa, I'm walking to the row near you now. Say your name when you can see me and I'll hand over the planks."}
+- 00:27 act: {"actions":[{"do":"goto","target":"ag_furiosa_01"},{"do":"give","to":"ag_furiosa_01","item":"dark_oak_planks","count":4}]}
+- 00:27 act: {"actions":[],"say":"Furiosa, your 4 dark oak planks are given. Indy has 1 plank left and food is still zero here; Clark is hungry at 16, so I'll hold my spare for whoever is weakest."}
