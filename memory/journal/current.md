@@ -10,3 +10,10 @@
 - 03:14 say: {"text":"Trini, you are the only one within my reach now. I am hungry at 17, so I will take that melon slice whenever you are ready."}
 - 03:15 say: {"text":"Trini, understood. I'll hold here and wait for Zack and Fogg to step off. Tell me when the way is clear and I'll name myself."}
 - 03:19 say: {"text":"Trini, Tommy and Zeopink are still within two blocks of me, so I will hold for the melon until I am alone with you. I will wait here at the row."}
+- 03:21 act: {"actions":[],"say":"Trini, thank you. I am at the row in your sight, hunger 17, and I will take the melon slice when it reaches me."}
+- 03:22 act: {"actions":[],"say":"Tommy, Zeopink, Trini wants to hand me a melon slice when nobody is within two blocks of us. Could you step off a few blocks, still in sight? I will hold still."}
+- 03:24 act: {"actions":[],"say":"Zeopink, you are the one still within two blocks of Trini and me. Could you step off a few blocks, still in sight? Trini, Tommy has moved off; I am waiting for your melon."}
+- 03:28 act: {"actions":[],"say":"Zack, Trini says you are still close to us. Please step off a few more blocks, still in sight, so Trini can hand me the melon."}
+- 03:32 act: {"actions":[{"do":"eat"}],"say":"Trini, thank you for the melon. Zack, thank you for stepping off. It is dusk, so I will eat and then bed down at the row."}
+- 03:32 act: {"actions":[{"do":"sleep"}]}
+- 03:32 act: {"actions":[{"do":"sleep"}],"say":"I am bedding down at the row, in sight of the group. Good night."}
