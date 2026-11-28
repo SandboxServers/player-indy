@@ -1,6 +1,6 @@
 # Summary
 
-Indy, life 4, waking 172. Day 1191 ended at the bed row (-956,73,-3047), slept by plain sleep. Health 20, hunger 20.
+Indy, life 4, waking 173. Day 1191 ended at the bed row (-955,73,-3047), slept by plain sleep. Health 20, hunger 20.
 
 Pack: 25 cobblestone, 13 sticks, 3 dirt, wooden pickaxe, crafting table. No food.
 
@@ -10,4 +10,4 @@ Goals: food only when among the weakest, in daylight, in company; hand-overs onl
 
 Land: stone is south-west near (-1001,74,-3020). Skeletons north. Dark oak logs near Chewie's area (-944,73,-3072). Melon is held by Trini and Clark.
 
-Notes: Plain sleep at the row works when bed use fails. Explore runs climb into leaves, so avoid them. Walk in company, not alone.
+Notes: Bed use fails at the row ("that block is a bed"); plain sleep at the row works. Explore runs climb into leaves, so avoid them. Walk in company, not alone.
