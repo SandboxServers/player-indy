@@ -17,3 +17,5 @@
 - 03:32 act: {"actions":[{"do":"eat"}],"say":"Trini, thank you for the melon. Zack, thank you for stepping off. It is dusk, so I will eat and then bed down at the row."}
 - 03:32 act: {"actions":[{"do":"sleep"}]}
 - 03:32 act: {"actions":[{"do":"sleep"}],"say":"I am bedding down at the row, in sight of the group. Good night."}
+- 03:33 act: {"say":"Indy, night 1193. At the row in the group's sight, health 20, hunger 17. Sleeping here."}
+- Night 1193: slept at the row in sight by plain sleep. Trini's melon slice eaten at dusk. Morning: still owe Hatshepsut 3 cobblestone and Quark a dark oak plank (Tubman has placed a wall plank; still none for me).
