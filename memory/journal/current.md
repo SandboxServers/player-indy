@@ -79,3 +79,4 @@
 - 00:46 act: {"actions":[{"do":"sleep"}],"say":"Indy, dusk 1185. Health and hunger 20, no food. Going to bed here at the row in the group's sight. Quark, my last plank is yours when you are alone in reach."}
 - 00:46 act: {"actions":[{"do":"sleep"}]}
 - 00:50 act: {"say":"Indy, morning 1185 at the row. Health and hunger 20, no food. Furiosa, I still owe you 1 dark oak plank; name yourself when you are alone in my reach."}
+- 00:59 act: {"actions":[{"do":"use","at":{"x":-960,"y":73,"z":-3060}}],"say":"Dusk at the bed row. Health and hunger full. Going to sleep here."}

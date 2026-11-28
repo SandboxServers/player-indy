@@ -1,7 +1,8 @@
 # Recent days
 
-Day 1166-1169: At the bed row with Lara, Trini, Balboa, Marco and Clark. Cow and food hunts found nothing for several days. Stores hall chests gave bread and carrots at day 1171.
-Day 1173-1174: Fogg gave me dark oak logs. I crafted planks, a crafting table and a wooden pickaxe at the bed row. Shared carrots with the hungry (Leif, Hermione, Doc, Zeogreen, Trini).
-Day 1175: Hunger 20, health 20. Pack: 9 dark oak planks, 7 logs, 11 sticks, wooden pickaxe. Owe Furiosa 4 planks. No stone yet. Going to bed at the row at dusk.
+Day 1179-1184: Bed row at (-960,73,-3050) area. Enderman seen near the row on 1179; moved away east and west. Gave Furiosa 4 dark oak planks (debt cut to 1). Stone runs south-west found no stone; explore runs north-west ended in leaves. Food was zero for days; no melon at the patch on 1184.
+Day 1185: Health and hunger 20, no food. Pack: 1 dark oak plank, 13 sticks, wooden pickaxe, crafting table. Tried bed use at the row (failed), then plain sleep. Sleep confirmation not seen; check on waking.
 
-Notes: Beds at the row sometimes refuse "use" but a plain sleep at the row works. Sleep alone first.
+Owed: Furiosa 1 dark oak plank when alone in reach. Quark: 1 plank for shelter when alone in reach.
+
+Notes: Plain sleep at the row works when bed use fails. Hand-overs work only with one person alone in reach who says their name. Stone is still unknown.
