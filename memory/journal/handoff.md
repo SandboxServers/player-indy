@@ -1,6 +1,6 @@
-Handoff, dusk day 1186 (waking 164, life 4).
-- At the bed row edge (-944,73,-3054), group close (Marty, Lara, Kat in reach). Health 20, hunger 20, not enclosed.
-- Pack: 1 dark oak plank, 13 sticks, wooden pickaxe, crafting table. No food.
-- Stone run: explore intent wandered into leaves to the north-west. Stone still unknown. Next morning: short ground walks south-west, in company.
-- Owed: Furiosa 1 dark oak plank when alone in reach. Quark 1 plank for shelter when alone in reach.
-- Magellan was fed by Sattler, Quark and Fogg. Trini and Clark hold melon.
+Handoff, dusk 1190 (waking 169, life 4).
+- At the bed row (-956,73,-3047), group in sight (Fogg in reach). Health 20, hunger 20, not enclosed.
+- Pack: 8 cobblestone, 13 sticks, 5 dirt, wooden pickaxe, crafting table. No food.
+- Odo gave me a melon slice when I was alone-ish; I ate it.
+- Owed: Hatshepsut 3 cobblestone (when alone in reach, she names herself). Quark 1 dark oak plank (I hold none).
+- Next morning: stone search south-west on foot in company, daylight. Not north, not explore runs.
