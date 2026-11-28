@@ -50,3 +50,9 @@
 - 23:51 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kat and Florence. Eating my apple now; the skeletons are north, so no stone run north."}
 - 23:56 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":-961,"y":73,"z":-3048}}],"say":"Night at the row. Eating my last apple, then going to a bed in the group's sight."}
 - 23:56 act: {"actions":[{"do":"use","at":{"x":-961,"y":73,"z":-3048}}]}
+- 23:57 act: {"actions":[{"do":"craft","item":"crafting_table","count":1},{"do":"craft","item":"wooden_pickaxe","count":1}],"say":"Morning. Indy here, health and hunger full. I'm making a pickaxe so we can look fo
+- 23:57 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3060}}],"say":"Pickaxe made (crafted table + wooden pickaxe at row, day 1182). Holding 5 dark oak planks, owe Furiosa 4 when alone. I'm going south-west to look for stone, not north. Anyone with me, stay in sight and call out grey stone.","intent"
+- 1182 explore north-west went ~100 blocks alone onto leaves; no stone. Walked back to the row, safe, health 20, hunger 20. Gimli and Mulan at the row. Furiosa still owed 4 planks when she is alone; holding 5.
+- 23:57 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3060}}],"intent":{"goal":"return_to_bed_row_group","program":"travel","arguments":{"target":{"x":-960,"y":73,"z":-3060}},"wake_on":["directly_ad
+- 00:02 act: {"actions":[{"do":"goto","target":{"x":-968,"y":73,"z":-3066}}],"say":"Indy moving now, south-west, in short legs. Short leg ended at (-968,73,-3097), no stone yet, health 20, hunger 20; Zheng He will join. Still owe Furiosa 4 planks. Kat, Marty, Atticus, Lara, Gimli: stay in sight and call out grey stone.","intent":{"
+- 00:03 act: {"say":"Indy at (-968, 73, -3097), midday, health 20, hunger 20. Zheng He, I'm holding here so we stay in sight. Next short leg south-west, group stay close and call out grey stone.","intent":{"goal":
