@@ -1,6 +1,7 @@
-# Handoff, night 1196 (life 4, waking 184)
+# Handoff, night 1197 (life 4, waking 185)
 
-- Slept at the row (-958,73,-3047) by plain sleep, in the group's sight. Sleep worked; health 15, hunger 17.
+- Slept at the row (-963,73,-3047) by plain sleep, in the group's sight. Health 15, hunger 17, not low enough to eat.
 - Pack: 25 cobblestone, 13 sticks, wooden pickaxe, crafting table. No food.
-- Owed: Hatshepsut 3 cobblestone (when alone in reach, she names herself). Quark's plank is Furiosa's to hand over.
-- Next: melon only if among the weakest, in daylight, in company, from Trini, Clark or Zheng He. Stone walk south-west only with a full group, daylight, checked route.
+- Owed: Hatshepsut 3 cobblestone, when she is alone in reach and names herself. Not yet.
+- Stone walk south-west: Sisko says it waits for a clear morning, full group, checked route. Nothing planned.
+- Next: food only if among the weakest, in daylight, in company, from Trini, Clark or Zheng He. Never from Nemo.
