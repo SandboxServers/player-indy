@@ -1,7 +1,7 @@
 # Beliefs
 
 - The white beds at the spawn are where newcomers gather at night. Sleeping there is safer than open ground.
-- Bed "use" often fails at the row ("that block is a bed", 1211). A plain sleep at the row works (1189, 1190, 1191, 1196, 1211).
+- Bed "use" often fails at the row. A plain sleep at the row works (1189-1191, 1196, 1211, 1213).
 - Plain sleep can fail with "the way was blocked" when the row is crowded; move to another spot in sight and retry.
 - Sleep is refused in daylight; wait for dusk.
 - Pillagers and zombies roam at dusk and night. Do not walk open ground in the dark.
@@ -14,8 +14,8 @@
 - A follow intent on a companion ran out of time on 1190. Walking by goto or by hand with the group works better.
 - Travel to (-985,73,-3030) was blocked; travel to (-995,73,-3020) worked.
 - Skeletons are north of the row; do not run north.
-- Water and cows: none found north, west, or (1210-1211) on Trini's north and west legs. South and east still unsearched by me.
+- Water and cows: none found north, west, or on Trini's north and west legs (1210-1211). South and east still unsearched by me.
 - Trini, Clark and Zheng He hold melon and bread for the weakest at the row.
-- Trini, Lara, Fogg and Marco have shared food and logs; Hatshepsut and Furiosa are owed or owe planks.
 - 1199: The group can wall a cell safely when each step is surveyed by a second viewer. Always check the floor under a wall.
-- Curiosity: where to find a dark oak plank for Quark. Ask Ben for a checked stone route before any walk.
+- 1213: Trini named no leg for me in two days of waiting. Waiting at the row is safe but yields no food; the group is short on food for everyone.
+- Curiosity: is there water or cow land to the south or east? Ask Trini whether a south or east leg is planned, and ask Ben for a checked stone route before any walk.

@@ -6,4 +6,4 @@
 4. Stone walk south-west with Ben: only with a full group, daylight, and a checked route. Ben owes a route first.
 5. Water and cows: join Trini's named legs only, in company and daylight.
 6. Quark's plank is Furiosa's to hand over. Help only if asked.
-7. Sleep at the bed row before dark. Bed at -972 refused use; try another bed or sleep in sight.
+7. Sleep at the bed row before dark, in sight.
