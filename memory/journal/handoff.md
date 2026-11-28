@@ -1,6 +1,6 @@
-# Handoff, day 1217 (life 4, waking 222)
+# Handoff, day 1217 (life 4, waking 223)
 
-- At the bed row (-982,73,-3047), in the group's sight (Marty, Zeopink nearby), not enclosed. Health 15, hunger 17. No errand running.
+- At the bed row (-982,73,-3047), standing on the bed row, not enclosed, night. Zeopink (~19 away) and Marty (~21 away) in the group's sight. Health 15, hunger 17. No errand running.
 - Pack: 25 cobblestone, 13 sticks, wooden pickaxe, crafting table. No food.
 - Food only from Trini, Clark, Zack or Zheng He, in company, when among the weakest, in daylight. Never Nemo.
 - Owed: Hatshepsut 3 cobblestone, when she is alone in reach and names herself.
