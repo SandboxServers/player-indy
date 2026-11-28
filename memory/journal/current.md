@@ -1,1 +1,1 @@
-Day 1210 morning. At the row in the group's sight, health 15, hunger 17, no food. Said I'd take Clark's melon only if among the weakest. Trini's west leg failed; holding at the row. Still no water or cows known.
+# Journal
