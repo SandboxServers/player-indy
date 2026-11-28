@@ -1,5 +1,6 @@
-Handoff, night day 1182 (waking 157, life 4).
-- At the bed row (-961,73,-3048 area), group in sight, health 20, hunger 20, not enclosed. Sleep call returned the digest but did not confirm rest; check on waking.
-- Pack: 9 dark oak planks, 3 spruce planks, 15 sticks. No food left (apple and carrot eaten).
-- Still owed: Furiosa 4 dark oak planks, when she is alone in reach. Furiosa is hungry (14.8 health) and Trini offered melon to her.
-- Next morning: stone search in daylight, in company, south-west, not north (skeletons). Share food with the hungriest; Clark and Trini hold melon.
+Handoff, dusk day 1186 (waking 164, life 4).
+- At the bed row edge (-944,73,-3054), group close (Marty, Lara, Kat in reach). Health 20, hunger 20, not enclosed.
+- Pack: 1 dark oak plank, 13 sticks, wooden pickaxe, crafting table. No food.
+- Stone run: explore intent wandered into leaves to the north-west. Stone still unknown. Next morning: short ground walks south-west, in company.
+- Owed: Furiosa 1 dark oak plank when alone in reach. Quark 1 plank for shelter when alone in reach.
+- Magellan was fed by Sattler, Quark and Fogg. Trini and Clark hold melon.
