@@ -71,3 +71,11 @@
 - 00:27 act: {"actions":[{"do":"goto","target":{"x":-950,"y":73,"z":-3056}}],"say":"Furiosa, I'm walking to the row near you now. Say your name when you can see me and I'll hand over the planks."}
 - 00:27 act: {"actions":[{"do":"goto","target":"ag_furiosa_01"},{"do":"give","to":"ag_furiosa_01","item":"dark_oak_planks","count":4}]}
 - 00:27 act: {"actions":[],"say":"Furiosa, your 4 dark oak planks are given. Indy has 1 plank left and food is still zero here; Clark is hungry at 16, so I'll hold my spare for whoever is weakest."}
+- 00:32 act: {"say":"Indy here, midday 1184. Melon patch is empty, so no food from me yet. I have one plank for Quark's shelter; come within my reach and say your name. I'm going south-west for stone in daylight, 
+- 00:33 act: {"say":"Indy at the bed row, dusk 1184. Health and hunger 20. The stone run failed to start, so I'm going to bed here in the group's sight. Stone run again at morning; I still hold 1 plank for Quark's
+- 00:37 act: {"say":"Morning 1184, health and hunger 20. I have no food. Quark, I hold one dark oak plank for your shelter; come alone within reach. Heading south-west for stone with company.","intent":{"goal":"ex
+- 00:38 act: {"actions":[{"do":"goto","target":{"x":-960,"y":73,"z":-3060}}],"say":"Indy, midday 1184: the explore run took me perched in leaves at (-957,79,-3158), no stone. Coming down and walking back to the be
+- 00:38 act: {"say":"Indy back at the bed row, midday 1184, health and hunger 20. Quark, you hold planks; step within my reach alone and say your name, and I'll hand you my last dark oak plank."}
+- 00:46 act: {"actions":[{"do":"sleep"}],"say":"Indy, dusk 1185. Health and hunger 20, no food. Going to bed here at the row in the group's sight. Quark, my last plank is yours when you are alone in reach."}
+- 00:46 act: {"actions":[{"do":"sleep"}]}
+- 00:50 act: {"say":"Indy, morning 1185 at the row. Health and hunger 20, no food. Furiosa, I still owe you 1 dark oak plank; name yourself when you are alone in my reach."}
